@@ -11,4 +11,4 @@ Playstore :  https://play.google.com/store/apps/details?id=com.dipstrategy.gsone
 App Store: Not Released Yet
 
 Issue:
-Responsive is not supported in big size devices
+Sometimes Responsive is not supported in big size devices
