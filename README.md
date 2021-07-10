@@ -2,6 +2,7 @@
 
 Noted:
 This Repository is Only Shows a Partial Source Code
+Please Contact Owner for full source
 
 Features:
 -Scan Barcode of a product
