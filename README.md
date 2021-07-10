@@ -3,8 +3,12 @@
 Noted:
 This Repository is Only Shows a Partial Source Code
 
-Please Contact Owner of Repository to get a full source code
-M Haikal Anatama
+Features:
+-Scan Barcode of a product
+-Getting Know About Product Information from a scanning barcode
 
-Discord : HiCall#5257
+Playstore :  https://play.google.com/store/apps/details?id=com.dipstrategy.gsone
+App Store: belum dirilis
 
+Issue:
+Responsive is not supported in big size devices
